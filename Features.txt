@@ -1,0 +1,9 @@
+"Water Supply Chain Management" is web application. The main Objective of this application is to handle the supply chain management between provider, consumer at one platform.
+Project Modules: (Features)
+1.  Profile Management (Login/Sign Up):   1) Distributer   2) Customer
+2.  Order Management (New Order/My Order)
+3. Distribution Management (Distribute)
+4.  Commercial Management (COD/Online Pay)
+5.  Feedback System
+6. Delete Order
+
